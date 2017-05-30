@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "addprodudttocart",
+        "sign": "Addtocart.addprodudttocart()[pri:0, instance:com.assignment.android.flipkartmobileapp.tests.Addtocart@38bc8ab5]"
+      },
+      "dependsOn": [],
+      "startTime": 1494323923572,
+      "duration": 1793,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

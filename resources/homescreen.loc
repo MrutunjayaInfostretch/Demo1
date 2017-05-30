@@ -1,0 +1,1 @@
+btn.img.flipkart = {\"locator\":\"id=com.flipkart.android:id/btn_skip\",\"desc\":\"pop-up close button\"}

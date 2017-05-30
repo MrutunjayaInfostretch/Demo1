@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14426" started-at="2017-05-09T07:46:24Z" finished-at="2017-05-09T07:46:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14426" started-at="2017-05-09T07:46:24Z" finished-at="2017-05-09T07:46:39Z">
+      <class name="com.assignment.android.flipkartmobileapp.tests.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.assignment.android.flipkartmobileapp.tests.NewTest@38bc8ab5]" name="f" duration-ms="14390" started-at="2017-05-09T13:16:24Z" finished-at="2017-05-09T13:16:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.assignment.android.flipkartmobileapp.tests.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

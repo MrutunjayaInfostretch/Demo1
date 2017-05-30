@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlipkartMobileApp.scenarios.suite1.bdd]">
+  <parameter name="include" value="{}"/>
+  <parameter name="scenario.file.loc" value="scenarios/suite1.bdd"/>
+  <parameter name="exclude" value="{}"/>
+  <test verbose="2" name="BDD Test">
+    <method-selectors>
+      <method-selector>
+        <selector-class name="com.qmetry.qaf.automation.testng.pro.QAFMethodSelector" priority="1"/>
+      </method-selector>
+    </method-selectors>
+    <classes>
+      <class name="com.qmetry.qaf.automation.step.client.text.BDDTestFactory"/>
+    </classes>
+  </test> <!-- BDD Test -->
+</suite> <!-- Failed suite [FlipkartMobileApp.scenarios.suite1.bdd] -->

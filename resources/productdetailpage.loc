@@ -1,0 +1,2 @@
+text.mobilename.flipkart = {\"locator\":\"xpath=//android.widget.TextView[@text='Smartron srt.phone']\"}
+filter.mobilename.flipkart = {\"locator\":\"xpath=//android.widget.TextView[@text='Smartron srt.phone (Titanium Gray, 64 GB)']\"}

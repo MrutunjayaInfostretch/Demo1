@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "f",
+        "sign": "NewTest.f()[pri:0, instance:com.assignment.android.flipkartmobileapp.tests.NewTest@38bc8ab5]"
+      },
+      "dependsOn": [],
+      "startTime": 1494315857530,
+      "duration": 8842,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

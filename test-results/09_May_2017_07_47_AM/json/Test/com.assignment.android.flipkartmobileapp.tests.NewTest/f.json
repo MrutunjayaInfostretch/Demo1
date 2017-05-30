@@ -1,0 +1,51 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 418 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11541', ip: '10.11.31.182', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_111'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceScreenSize=1440x2560, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=192.168.60.101:5555, platform=LINUX, deviceUDID=192.168.60.101:5555, appActivity=com.flipkart.android.SplashActivity, browser_name=, desired={appPackage=com.flipkart.android, appActivity=com.flipkart.android.SplashActivity, browser_name=, appium-version=3.3.0, newCommandTimeout=120, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceName=192.168.119.102:5555, cssSelectorsEnabled=true}, appium-version=3.3.0, newCommandTimeout=120, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, deviceModel=Samsung Galaxy S6 - 5.1.0 - API 22 - 1440x2560, platformName=Android, deviceManufacturer=unknown, cssSelectorsEnabled=true}]\nSession ID: e39607b2-e785-4824-b79c-85abe32d04e4\n*** Element info: {Using=id, value=com.flipkart.android:id/btn_skip}",
+      "subLogs": [],
+      "duration": 423
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 129 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11541', ip: '10.11.31.182', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_111'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceScreenSize=1440x2560, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=192.168.60.101:5555, platform=LINUX, deviceUDID=192.168.60.101:5555, appActivity=com.flipkart.android.SplashActivity, browser_name=, desired={appPackage=com.flipkart.android, appActivity=com.flipkart.android.SplashActivity, browser_name=, appium-version=3.3.0, newCommandTimeout=120, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceName=192.168.119.102:5555, cssSelectorsEnabled=true}, appium-version=3.3.0, newCommandTimeout=120, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, deviceModel=Samsung Galaxy S6 - 5.1.0 - API 22 - 1440x2560, platformName=Android, deviceManufacturer=unknown, cssSelectorsEnabled=true}]\nSession ID: e39607b2-e785-4824-b79c-85abe32d04e4\n*** Element info: {Using=id, value=com.flipkart.android:id/btn_skip}",
+      "subLogs": [],
+      "duration": 129
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 236 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL11541', ip: '10.11.31.182', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_111'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities [{appPackage=com.flipkart.android, deviceScreenSize=1440x2560, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=192.168.60.101:5555, platform=LINUX, deviceUDID=192.168.60.101:5555, appActivity=com.flipkart.android.SplashActivity, browser_name=, desired={appPackage=com.flipkart.android, appActivity=com.flipkart.android.SplashActivity, browser_name=, appium-version=3.3.0, newCommandTimeout=120, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, platformName=Android, deviceName=192.168.119.102:5555, cssSelectorsEnabled=true}, appium-version=3.3.0, newCommandTimeout=120, platformVersion=5.1, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, driver.class=io.appium.java_client.android.AndroidDriver, deviceModel=Samsung Galaxy S6 - 5.1.0 - API 22 - 1440x2560, platformName=Android, deviceManufacturer=unknown, cssSelectorsEnabled=true}]\nSession ID: e39607b2-e785-4824-b79c-85abe32d04e4\n*** Element info: {Using=id, value=com.flipkart.android:id/btn_skip}",
+      "subLogs": [],
+      "duration": 236
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=com.flipkart.android:id/btn_skip, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 1941
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: com.flipkart.android:id/btn_skip",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1907
+    }
+  ],
+  "checkPoints": []
+}

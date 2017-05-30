@@ -1,0 +1,3 @@
+btn.menu.flipkart = {\"locator\":\"accessibility id=Open Drawer\",\"desc\":\"menu button of homepage\"}
+btn.Electronics.flipkart = {\"locator\":\"xpath=//android.widget.TextView[@text='Electronics']\"}
+btn.mobile.flipkart = {\"locator\":\"xapth=//android.widget.TextView[@text='Mobiles']\"}

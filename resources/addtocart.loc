@@ -1,0 +1,2 @@
+btn.addtocart.flipcart = {\"locator\":\"id=com.flipkart.android:id/product_ping_share_1\"}
+btn.incart.flipcart = {\"locator\":\"accessibility id=1 in cart\"}
